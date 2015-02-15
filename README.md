@@ -23,7 +23,7 @@ Prerequisites
 Download
 --------
 
-* You can get the latest official release from the SourceForge releases:
+* You can get the latest official release on the SourceForge website:
   https://sourceforge.net/projects/soalhm/files/latest/download
 * You can also get the current development version from the GitHub repository:
   https://github.com/Taikocuya/SOALHM
