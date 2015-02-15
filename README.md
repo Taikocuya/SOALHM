@@ -12,7 +12,7 @@ Features
 * Increased ship enemy stats (HP, Will, Quick, Defense and Magic Defense)
 * Improved ship enemy armament (Attack, Range and Hit%)
 * Changed encounter, event and boss battle formations
-* Changed item drops of enemies
+* Changed item drops of several enemies
 
 Prerequisites
 -------------
