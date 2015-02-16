@@ -94,5 +94,6 @@ Links
 License
 -------
 
-Copyright (C) 2015 Marcel Renner. ALX is licensed under the GNU General Public 
-License, Version 3.0. See [LICENSE.md](LICENSE.md) for the full license text.
+Copyright (C) 2015 Marcel Renner. Skies of Arcadia Legends: Hard Mode is 
+licensed under the GNU General Public License, Version 3.0. See 
+[LICENSE.md](LICENSE.md) for the full license text.
