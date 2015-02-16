@@ -95,5 +95,5 @@ License
 -------
 
 Copyright (C) 2015 Marcel Renner. Skies of Arcadia Legends: Hard Mode is 
-licensed under the GNU General Public License, Version 3.0. See 
-[LICENSE.md](LICENSE.md) for the full license text.
+licensed under the zlib license. See [LICENSE.md](LICENSE.md) for the full 
+license text.
