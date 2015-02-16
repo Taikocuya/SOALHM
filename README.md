@@ -68,12 +68,21 @@ Tips and Tricks
   battle as well as against Piastol and Ramirez. Normally, you can't win the 
   fights with Drachma or Gilder.
 
-Videos
-------
+Resources
+---------
   
-### 1st Battle & 1st Boss
+### Video
   
-[![Skies of Arcadia Legends: Hard Mode – 1st Battle & 1st Boss](http://img.youtube.com/vi/-c6htevesp0/0.jpg)](https://www.youtube.com/watch?v=-c6htevesp0)
+[![Skies of Arcadia Legends: Hard Mode – 1st Battle & 1st Boss](http://img.youtube.com/vi/-c6htevesp0/maxresdefault.jpg)](https://www.youtube.com/watch?v=-c6htevesp0)
+
+### Screenshots
+
+![1st battle against five Valuan Soldiers](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG1.jpg)
+![1st battle against five Valuan Soldiers](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG2.jpg)
+![1st boss battle against two Antonios](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG3.jpg)
+![1st boss battle against two Antonios](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG4.jpg)
+![1st boss battle against two Antonios](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG5.jpg)
+![1st boss battle against two Antonios](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG6.jpg)
 
 Links
 -----
