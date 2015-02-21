@@ -8,8 +8,10 @@ difficulty level of all fights (including ship battles).
 Features
 --------
 
-* Increased enemy stats (HP, Vigor, Will, Quick, Defense and Magic Defense)
-* Increased ship enemy stats (HP, Will, Quick, Defense and Magic Defense)
+* Increased enemy stats (HP, Vigor, Will, Quick, Attack, Defense and Magic 
+  Defense)
+* Increased ship enemy stats (HP, Will, Quick, Attack, Defense and Magic 
+  Defense)
 * Improved ship enemy armament (Attack, Range and Hit%)
 * Changed encounter, event and boss battle formations
 * Changed item drops of several enemies
