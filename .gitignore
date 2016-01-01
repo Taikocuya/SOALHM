@@ -12,7 +12,6 @@ Thumbs.db
 .project
 
 # SOALHM
-/thirdparty/
 /share/
 !/share/*/&&systemdata/Start.dol
 !/share/*/battle/e*init*.dat
@@ -20,3 +19,4 @@ Thumbs.db
 !/share/*/battle/first.lmt
 !/share/*/field/*.enp
 !/share/*/*.sot
+/thirdparty/

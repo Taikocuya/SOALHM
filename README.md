@@ -75,16 +75,17 @@ Resources
   
 ### Video
   
-[![Skies of Arcadia Legends: Hard Mode – 1st Battle & 1st Boss](http://img.youtube.com/vi/-c6htevesp0/maxresdefault.jpg)](https://www.youtube.com/watch?v=-c6htevesp0)
+[![](http://img.youtube.com/vi/-c6htevesp0/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=-c6htevesp0)
 
 ### Screenshots
 
-![1st battle against five Valuan Soldiers](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG1.jpg)
-![1st battle against five Valuan Soldiers](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG2.jpg)
-![1st boss battle against two Antonios](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG3.jpg)
-![1st boss battle against two Antonios](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG4.jpg)
-![1st boss battle against two Antonios](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG5.jpg)
-![1st boss battle against two Antonios](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG6.jpg)
+![](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG1.jpg)
+![](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG2.jpg)
+![](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG3.jpg)
+![](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG4.jpg)
+![](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG5.jpg)
+![](http://a.fsdn.com/con/app/proj/soalhm/screenshots/SOAHM_IMG6.jpg)
 
 Links
 -----
