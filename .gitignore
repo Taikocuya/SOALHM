@@ -10,3 +10,13 @@ Thumbs.db
 
 # Eclipse
 .project
+
+# SOALHM
+/thirdparty/
+/share/
+!/share/*/&&systemdata/Start.dol
+!/share/*/battle/e*init*.dat
+!/share/*/battle/epevent.evp
+!/share/*/battle/first.lmt
+!/share/*/field/*.enp
+!/share/*/*.sot
