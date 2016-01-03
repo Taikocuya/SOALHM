@@ -12,6 +12,7 @@ Thumbs.db
 .project
 
 # SOALHM
+/doc/
 /share/
 !/share/*/*.csv
 !/share/*/*.sot
