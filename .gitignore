@@ -16,6 +16,8 @@ Thumbs.db
 /share/
 !/share/*/*.csv
 !/share/*/*.sot
+!/share/*/opening.bnr
+!/share/*/&&systemdata/ISO.hdr
 !/share/*/&&systemdata/Start.dol
 !/share/*/battle/e*init*.dat
 !/share/*/battle/epevent.evp
