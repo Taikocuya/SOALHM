@@ -3,8 +3,6 @@
 > 
 > [Skies of Arcadia Legends Encore](https://github.com/Taikocuya/SOALE) 
 > is a new rebalancing and difficulty hack of the game of the same name. 
-> The main objective is to rebalancing several stats and to increase the 
-> difficulty level of the whole game.
 
 Skies of Arcadia Legends: Hard Mode
 ===================================
